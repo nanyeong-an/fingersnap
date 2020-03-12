@@ -1,12 +1,28 @@
  <!doctype html>
  <<!DOCTYPE html>
- <html lang="en">
+ <html lang="ko">
    <head>
      <meta charset="utf-8">
      <meta name="viewport" content="width=device-width, intital-scale=1.0">
+     <meta name="author" content="anna">
+     <meta name="description" content="매달 내 방을 새롭게 꾸며보세요">
+     <meta name="keywords" content="방꾸미기, 가구렌탈, 가전렌탈, 인테리어소품, 인테리어"
+
+     <meta name="format-detection" content="telephone=no">
+        <meta property="og:title" content="인테리어 소가구가전제품 월 렌탈">
+        <meta property="og:url" content="https://e">
+        <meta property="og:image" content="https://w.jpg">
+        <meta property="og:description" content="매달 내 방을 새롭게 꾸며보세요">
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:title" content=" 메인">
+        <meta name="twitter:url" content="https://s">
+        <meta name="twitter:image" content="https://w.jpg">
+        <meta name="twitter:description" content="매달 내 방을 새롭게 꾸며보세요">
+
      <title>FINGERSNAP</title>
+
    </head>
    <body>
-     
+
    </body>
  </html>
